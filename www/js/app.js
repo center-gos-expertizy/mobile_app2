@@ -1,6 +1,6 @@
 window.curentLoadBase = false; //ожидание загрузки данных в кеш-базу
 window.curentLang = 'ru'; //язык по умолчанию
-var startUrl = 'https://mlife-media.by/mobile_app/';
+var startUrl = 'https://test.spbexp.ru/mobile_app2/';
 if(localStorage.getItem('startUrl')){
 	startUrl = localStorage.getItem('startUrl');
 }
